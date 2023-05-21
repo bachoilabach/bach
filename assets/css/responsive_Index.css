@@ -1,0 +1,118 @@
+@media screen and (min-width: 820px) and (max-width: 1180px) {
+    #header {
+        height: 90px;
+    }
+
+    #nav li a {
+        font-size: 22px;
+    }
+
+    #nav li .btn-login {
+        font-size: 22px;
+        padding: 10px 14px;
+    }
+
+    .content-items {
+        width: 1165px;
+    }
+
+    .content-heading {
+        font-size: 30px;
+    }
+
+    #slider .slider-content {
+        height: 170px;
+        width: calc(100% - 90px);
+    }
+
+    .buytk-page__search {
+        height: 75px;
+    }
+
+    #slider {
+        margin-left: 0px;
+    }
+
+    .input-noi-den,
+    .input-ngay-di,
+    .input-noi-di {
+        font-size: 25px;
+    }
+
+    .content-list {
+        padding: 16px 68px;
+    }
+
+    .cr-img {
+        height: 130px;
+    }
+
+    .cr-item-body {
+        height: 125px;
+        font-size: 23px;
+    }
+
+    .cr-item-decs {
+        font-size: 21px;
+    }
+
+    .cr-item-body {
+        /* width: 320px; */
+        height: 170px;
+    }
+
+    #feedback-kh {
+        padding: 16px 60px;
+        /* margin-left: 40px; */
+    }
+
+    .disc-item-body a {
+        font-size: 20px;
+        padding: 20px 20px;
+    }
+
+    .fb-wrapper {
+        overflow-x: auto;
+        width: 108%;
+    }
+
+    .btn-list {
+        display: none;
+    }
+
+    #footer {
+        height: 405px;
+        width: 1300px;
+    }
+
+    .fb-content {
+        font-size: 17px;
+        line-height: 1.4;
+    }
+
+    .footer-top,
+    .footer-middle {
+        display: none;
+    }
+
+    hr {
+        display: none;
+    }
+
+    .ft-header {
+        font-size: 30px;
+    }
+
+    .ft-item{
+        font-size: 22px;
+    }
+    .ft-about, .ft-certify, .ft-download{
+        width: 365px;
+    }
+    .license-heading{
+        font-size: 28px !important;
+    }
+    .ft-license-wrapper{
+        font-size: 21px;
+    }
+}
